@@ -1,11 +1,10 @@
 # Hi there, I'm Dawid 👋
 
-**Frontend Developer @ Sarigato** | Building interactive experiences that don't make users want to throw their devices 📱
+**Frontend Developer @ Sarigato** | Building stuff for users and developers
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dawidlehai.github.io-blue?style=flat-square&logo=firefox)](https://dawidlehai.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dawidlehai-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/dawidlehai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dawidlehai.github.io-faf7ef?style=for-the-badge&labelColor=ff1492)](https://dawidlehai.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dawidlehai-faf7ef?style=for-the-badge&labelColor=0077B5)](https://linkedin.com/in/dawidlehai)
 
----
 
 ## 🚀 About Me
 
@@ -15,7 +14,6 @@ Now I'm back to doing what I love – creating interactive advertising campaigns
 
 **Fun fact:** I'm the kind of developer who gets excited about architecture, optimization, and those tiny details that make code sing. Also into bodybuilding and music when I'm not staring at screens 💪🎵
 
----
 
 ## 🛠️ Tech Stack
 

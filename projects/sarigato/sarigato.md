@@ -9,7 +9,7 @@
 
 Single-page website that adheres to key web accessibility principles and captivates viewers with stunning visual effects while maintaining a clean, practical layout that aligns with the company's creative profile. Fully responsive, it delivers an exceptional user experience across diverse screen sizes.
 
-- 🚀 Built a high-performance single-page website using React and TypeScript.
+- 🚀 A high-performance single-page website built using React and TypeScript.
 - ✨ Implemented rich visual experience with numerous animations and creative visual elements while maintaining optimal performance and responsive design.
 - 🏆 Achieved excellent Lighthouse scores across all categories (performance, accessibility, best practices, and SEO).
 - ⚡ Implemented server-side rendering for improved SEO performance and faster initial page loads.

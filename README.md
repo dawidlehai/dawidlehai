@@ -2,8 +2,8 @@
 
 **Frontend Developer @ Sarigato** | Building stuff for users and developers
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dawidlehai.github.io-faf7ef?style=for-the-badge&labelColor=ff1492)](https://dawidlehai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/dawidlehai-faf7ef?style=for-the-badge&labelColor=0077B5)](https://linkedin.com/in/dawidlehai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dawidlehai.github.io-faf7ef?style=for-the-badge&labelColor=ff1492)](https://dawidlehai.github.io)
 
 ---
 
@@ -69,18 +69,6 @@ I'm the kind of software engineer who gets excited about architecture, optimizat
 
 ## 🎨 Featured website projects
 
-### OOH!attention | [oohattention.com](https://oohattention.com)
-
-Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. Despite the complex design, I successfully delivered a fast-loading and fully responsive website within a tight deadline. The project highlights two dynamic shapes that animate as you scroll through the page, along with mesmerizing orbs in the hero section. [**Learn more**](projects/oohattention/oohattention.md)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat-square&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-
 ### Sarigato | [sarigato.com](https://sarigato.com)
 
 Single-page website that adheres to key web accessibility principles and captivates viewers with stunning visual effects while maintaining a clean, practical layout that aligns with the company's creative profile. Fully responsive, it delivers an exceptional user experience across diverse screen sizes. [**Learn more**](projects/sarigato/sarigato.md)
@@ -106,6 +94,18 @@ The project exhibits the creative agency's core strengths through beautifully de
 ![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat-square&logo=react&logoColor=white)
 ![React Transition Group](https://img.shields.io/badge/React%20Transition%20Group-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Focus Trap](https://img.shields.io/badge/React%20Focus%20Trap-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+
+### OOH!attention | [oohattention.com](https://oohattention.com)
+
+Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. Despite the complex design, I successfully delivered a fast-loading and fully responsive website within a tight deadline. The project highlights two dynamic shapes that animate as you scroll through the page, along with mesmerizing orbs in the hero section. [**Learn more**](projects/oohattention/oohattention.md)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat-square&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
 ### My former portfolio | [Live deploy](https://saitama-personal.netlify.app) | [Source code](https://github.com/dawidlehai/personal-astro)
@@ -149,18 +149,12 @@ Real-time communication server enabling mobile-desktop interaction for interacti
 
 Node.js and Photoshop scripts that automate asset export and generate HTML/SCSS code from compositions.
 
-### 🌍 Natio - Country Explorer
-
-Vanilla JavaScript app using REST Countries API with search, favorites, and discovery features.
-
-_[View all repositories →](https://github.com/dawidlehai?tab=repositories)_
-
 ---
 
 ## 📫 Let's connect!
 
-- 💙 **Portfolio**: [dawidlehai.github.io](https://dawidlehai.github.io)
 - 💼 **LinkedIn**: [linkedin.com/in/dawidlehai](https://linkedin.com/in/dawidlehai)
+- 💙 **Portfolio**: [dawidlehai.github.io](https://dawidlehai.github.io)
 
 ---
 

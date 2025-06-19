@@ -1,6 +1,9 @@
 # [OOH!attention Website](https://oohattention.com)
 
-_Developed @ Sarigato_
+<p align="left">
+  <img src="oohattention-desktop.gif" alt="Recording of the website on desktop">
+  <img src="oohattention-mobile.gif" height="306" alt="Recording of the website on mobile">
+</p>
 
 [![oohattention.com](https://img.shields.io/badge/Check_it_out-oohattention.com-faf7ef?style=for-the-badge&labelColor=ff1492)](https://oohattention.com)
 
@@ -21,5 +24,4 @@ Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. D
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-![Recording of the website on desktop](oohattention-desktop.gif)
-![Recording of the website on mobile](oohattention-mobile.gif)
+_Developed @ Sarigato_

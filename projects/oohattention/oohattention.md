@@ -4,9 +4,6 @@ _Developed @ Sarigato_
 
 [![oohattention.com](https://img.shields.io/badge/Check_it_out-oohattention.com-faf7ef?style=for-the-badge&labelColor=ff1492)](https://oohattention.com)
 
-![Recording of the website on desktop](oohattention-desktop.gif)
-![Recording of the website on mobile](oohattention-mobile.gif)
-
 Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. Despite the complex design, I successfully delivered a fast-loading and fully responsive website within a tight deadline. The project highlights two dynamic shapes that animate as you scroll through the page, along with mesmerizing orbs in the hero section.
 
 - 🎯 Single-page website with a focus on striking visual impact and creative presentation.
@@ -23,3 +20,6 @@ Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. D
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+
+![Recording of the website on desktop](oohattention-desktop.gif)
+![Recording of the website on mobile](oohattention-mobile.gif)

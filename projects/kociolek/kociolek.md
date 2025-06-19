@@ -6,6 +6,7 @@
 </p>
 
 [![kociolekbydgoszcz.pl](https://img.shields.io/badge/Check_it_out-kociolekbydgoszcz.pl-faf7ef?style=for-the-badge&labelColor=ff1492)](https://kociolekbydgoszcz.pl)
+[![GitHub](https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawidlehai/kociolek-remix)
 
 For this freelance project, I took complete ownership of the design and development process to craft an online presence that resonated with the unique charm of the cafe. I shaped everything from the brand colors and logo to graphics, photos, and appealing fonts.
 

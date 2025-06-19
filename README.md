@@ -128,6 +128,15 @@ For this freelance project, I took complete ownership of the design and developm
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+### Natio | [Live deploy](https://saitama-natio.netlify.app/) | [Source code](https://github.com/dawidlehai/natio)
+
+Single-page application designed from scratch that explores countries and their neighbors, saves favorites, and tracks discovery progress. It follows the MVC architecture, pulls data from the REST Countries API, and features a responsive design. The background changes dynamically based on each country's flag, and a custom search makes finding countries easy. [**Learn more**](projects/natio/natio.md)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![REST Countries API](https://img.shields.io/badge/REST%20Countries%20API-000000?style=flat-square&logo=restcountries&logoColor=white)
+
 ### 🎯 OOH!attention Development Environment
 
 Vite-powered template for building Out-Of-Home advertisements with built-in testing, documentation, and mobile optimization.

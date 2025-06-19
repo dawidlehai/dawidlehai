@@ -25,3 +25,8 @@ By focusing on performance optimization and responsive web design, I achieved an
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 _Designed and developed by Dawid Le Hai_
+
+[<img src="https://github.com/dawidlehai/kociolek/raw/master/img/kociolek-screenshot-01.webp" alt="Screenshot #1 of the Kociołek website" width="412px">](https://kociolekbydgoszcz.pl/ "kociolekbydgoszcz.pl")
+[<img src="https://github.com/dawidlehai/kociolek/raw/master/img/kociolek-screenshot-02.webp" alt="Screenshot #2 of the Kociołek website" width="412px">](https://kociolekbydgoszcz.pl/ "kociolekbydgoszcz.pl")
+[<img src="https://github.com/dawidlehai/kociolek/raw/master/img/kociolek-screenshot-03.webp" alt="Screenshot #3 of the Kociołek website" width="412px">](https://kociolekbydgoszcz.pl/ "kociolekbydgoszcz.pl")
+[<img src="https://github.com/dawidlehai/kociolek/raw/master/img/kociolek-screenshot-05.webp" alt="Screenshot #4 of the Kociołek website" width="412px">](https://kociolekbydgoszcz.pl/ "kociolekbydgoszcz.pl")

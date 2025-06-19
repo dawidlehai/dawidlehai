@@ -9,7 +9,7 @@
 
 ## 🥥 About me
 
-Started coding at 11, went to tech school, studied Computer Science for a year, then had what I can only describe as an existential crisis mixed with *"I bet psychology classes have a lot more girls."* Got a Master's in Psychology with fancy awards, then realized I missed the beauty of well-written code.
+Started coding at 11, went to tech school, studied Computer Science for a year, then had what I can only describe as an existential crisis mixed with _"I bet psychology classes have a lot more girls."_ Got a Master's in Psychology with fancy awards, then realized I missed the beauty of well-written code.
 
 Now I'm back to doing what I love – creating interactive experiences for brands like **Netflix**, **Sony**, and **Mercedes**, building automation tools that make developers' lives easier, and obsessing over accessibility and performance more than making things look pretty (though people tell me I have a good eye for UI anyway).
 
@@ -20,12 +20,14 @@ I'm the kind of software engineer who gets excited about architecture, optimizat
 ## 🛠️ Tech stack
 
 ### Languages & core technologies
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
 ### Frontend frameworks & libraries
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
@@ -37,6 +39,7 @@ I'm the kind of software engineer who gets excited about architecture, optimizat
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend & tools
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![RxDB](https://img.shields.io/badge/RxDB-03A9F4?style=flat-square&logo=rxdb&logoColor=white)
@@ -44,6 +47,7 @@ I'm the kind of software engineer who gets excited about architecture, optimizat
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Development tools
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -69,7 +73,7 @@ I'm the kind of software engineer who gets excited about architecture, optimizat
 
 #### OOH!attention
 
-Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. Despite the complex design, I successfully delivered a fast-loading and fully responsive website within a tight deadline. The project highlights two dynamic shapes that animate as you scroll through the page, along with mesmerizing orbs in the hero section. [**Learn more**](projects/oohattention.md)
+Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. Despite the complex design, I successfully delivered a fast-loading and fully responsive website within a tight deadline. The project highlights two dynamic shapes that animate as you scroll through the page, along with mesmerizing orbs in the hero section. [**Learn more**](projects/oohattention/oohattention.md)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
@@ -78,20 +82,23 @@ Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. D
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-
 ### 🎯 OOH!attention Development Environment
+
 Vite-powered template for building Out-Of-Home advertisements with built-in testing, documentation, and mobile optimization.
 
 ### 🖥️ Sataku WebSocket Server
+
 Real-time communication server enabling mobile-desktop interaction for interactive banners and games.
 
 ### 🤖 Sataku Automation Script
+
 Node.js and Photoshop scripts that automate asset export and generate HTML/SCSS code from compositions.
 
 ### 🌍 Natio - Country Explorer
+
 Vanilla JavaScript app using REST Countries API with search, favorites, and discovery features.
 
-*[View all repositories →](https://github.com/dawidlehai?tab=repositories)*
+_[View all repositories →](https://github.com/dawidlehai?tab=repositories)_
 
 ---
 

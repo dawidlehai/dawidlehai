@@ -5,7 +5,7 @@
   <img src="natio-mobile.gif" height="306" alt="Recording of the website on mobile">
 </p>
 
-[![Live deploy](https://img.shields.io/badge/Check_it_out-Live_deploy-faf7ef?style=for-the-badge&labelColor=ff1492)](https://github.com/dawidlehai/natio)
+[![Live deploy](https://img.shields.io/badge/Check_it_out-Live_deploy-faf7ef?style=for-the-badge&labelColor=ff1492)](https://saitama-natio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawidlehai/natio)
 
 Single-page application designed from scratch that explores countries and their neighbors, saves favorites, and tracks discovery progress. It follows the MVC architecture, pulls data from the REST Countries API, and features a responsive design. The background changes dynamically based on each country's flag, and a custom search makes finding countries easy.

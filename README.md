@@ -108,6 +108,17 @@ The project exhibits the creative agency's core strengths through beautifully de
 ![React Focus Trap](https://img.shields.io/badge/React%20Focus%20Trap-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
+### My Former Portfolio | [saitama-personal.netlify.app](https://saitama-personal.netlify.app)
+
+My former personal portfolio website that showcases my skills and projects, built with Astro and TypeScript. It features a clean design and responsive layout. [**Learn more**](projects/formerportfolio/formerportfolio.md)
+
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### Kociołek | [kociolekbydgoszcz.com](https://kociolekbydgoszcz.com)
+
 ### 🎯 OOH!attention Development Environment
 
 Vite-powered template for building Out-Of-Home advertisements with built-in testing, documentation, and mobile optimization.

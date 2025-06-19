@@ -118,7 +118,7 @@ My former personal portfolio website that showcases my skills and projects, buil
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### Kociołek | [kociolekbydgoszcz.com](https://kociolekbydgoszcz.com) | [Source code](https://github.com/dawidlehai/kociolek-remix)
+### Kociołek | [kociolekbydgoszcz.pl](https://kociolekbydgoszcz.pl) | [Source code](https://github.com/dawidlehai/kociolek-remix)
 
 For this freelance project, I took complete ownership of the design and development process to craft an online presence that resonated with the unique charm of the cafe. I shaped everything from the brand colors and logo to graphics, photos, and appealing fonts. [**Learn more**](projects/kociolek/kociolek.md)
 

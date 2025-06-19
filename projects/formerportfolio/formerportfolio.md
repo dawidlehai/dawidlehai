@@ -6,7 +6,6 @@
 </p>
 
 [![Live deploy](https://img.shields.io/badge/Check_it_out-Live_deploy-faf7ef?style=for-the-badge&labelColor=ff1492)](https://saitama-personal.netlify.app)
-
 [![GitHub](https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawidlehai/personal-astro)
 
 My former personal portfolio website that showcases my skills and projects, built with Astro and TypeScript. It features a clean design and responsive layout.

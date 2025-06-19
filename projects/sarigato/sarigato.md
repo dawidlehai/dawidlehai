@@ -17,9 +17,9 @@ Single-page website that adheres to key web accessibility principles and captiva
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=studiofreight&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=studiofreight&logoColor=white)
 ![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat-square&logo=react&logoColor=white)
 ![React Transition Group](https://img.shields.io/badge/React%20Transition%20Group-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Focus Trap](https://img.shields.io/badge/React%20Focus%20Trap-61DAFB?style=flat-square&logo=react&logoColor=black)

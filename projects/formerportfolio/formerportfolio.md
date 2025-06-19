@@ -1,4 +1,4 @@
-# [My Former Portfolio](https://saitama-personal.netlify.app)
+# [My former portfolio](https://saitama-personal.netlify.app)
 
 <p align="left">
   <img src="formerportfolio-desktop.gif" alt="Recording of the website on desktop">

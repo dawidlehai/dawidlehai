@@ -67,11 +67,9 @@ I'm the kind of software engineer who gets excited about architecture, optimizat
 
 ---
 
-## 🌟 Featured projects
+## 🎨 Featured website projects
 
-### 🎨 Websites
-
-#### OOH!attention | [oohattention.com](https://oohattention.com)
+### OOH!attention | [oohattention.com](https://oohattention.com)
 
 Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. Despite the complex design, I successfully delivered a fast-loading and fully responsive website within a tight deadline. The project highlights two dynamic shapes that animate as you scroll through the page, along with mesmerizing orbs in the hero section. [**Learn more**](projects/oohattention/oohattention.md)
 
@@ -81,6 +79,33 @@ Showcase of an innovative out-of-home solution, a first-of-its-kind in Poland. D
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+
+### Sarigato | [sarigato.com](https://sarigato.com)
+
+Single-page website that adheres to key web accessibility principles and captivates viewers with stunning visual effects while maintaining a clean, practical layout that aligns with the company's creative profile. Fully responsive, it delivers an exceptional user experience across diverse screen sizes. [**Learn more**](projects/sarigato/sarigato.md)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=studiofreight&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat-square&logo=react&logoColor=white)
+![React Transition Group](https://img.shields.io/badge/React%20Transition%20Group-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Focus Trap](https://img.shields.io/badge/React%20Focus%20Trap-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+
+### Carla Zuri | [carlazuri.com](https://carlazuri.com)
+
+The project exhibits the creative agency's core strengths through beautifully designed pop-ups showcasing a collection of its case studies. It's a fully responsive single-page website compliant with core web accessibility principles. In addition to its visually appealing design, the website boasts impressive performance metrics. [**Learn more**](projects/carlazuri/carlazuri.md)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat-square&logo=react&logoColor=white)
+![React Transition Group](https://img.shields.io/badge/React%20Transition%20Group-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Focus Trap](https://img.shields.io/badge/React%20Focus%20Trap-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
 ### 🎯 OOH!attention Development Environment

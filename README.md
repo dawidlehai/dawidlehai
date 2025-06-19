@@ -108,7 +108,7 @@ The project exhibits the creative agency's core strengths through beautifully de
 ![React Focus Trap](https://img.shields.io/badge/React%20Focus%20Trap-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-### My Former Portfolio | [saitama-personal.netlify.app](https://saitama-personal.netlify.app)
+### My Former Portfolio | [Live deploy](https://saitama-personal.netlify.app) | [Source code](https://github.com/dawidlehai/personal-astro)
 
 My former personal portfolio website that showcases my skills and projects, built with Astro and TypeScript. It features a clean design and responsive layout. [**Learn more**](projects/formerportfolio/formerportfolio.md)
 

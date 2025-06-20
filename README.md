@@ -148,7 +148,7 @@ A Vite-powered JavaScript project template for building Out-Of-Home (OOH) advert
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Joi](https://img.shields.io/badge/Joi-0768A9?style=flat-square)
 
-## Sarigato PDF Print Server
+### Sarigato PDF Print Server
 
 This Node.js and Express.js server solves the problem of inconsistent PDF printing of reports from our panel page across different browsers and browser settings. By generating PDFs on the server with Puppeteer in a unified Chrome environment, the documents always look exactly as intended.
 
@@ -161,7 +161,7 @@ It was a great opportunity to work with Puppeteer and learn about its capabiliti
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Sataku WebSocket Server
+### Sataku WebSocket Server
 
 A simple WebSocket server for real-time communication between mobile and desktop interactive banners and games, enabling features such as using your phone as a controller. It was used, for example, in this [Sony PlayStation expand](https://prev.sataku.com/campaign/806/7).
 
@@ -173,7 +173,7 @@ The most challenging part was developing an API that is easy to use, error-proof
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Sataku Automation Script
+### Sataku Automation Script
 
 Node.js and Photoshop scripts designed to streamline developers' workflows by automating asset export and the generation of HTML and SCSS (Sass) code to accurately reproduce compositions.
 
@@ -185,7 +185,7 @@ As the lead developer, I prioritized sustainable code architecture to ensure lon
 ![ExtendScript](https://img.shields.io/badge/ExtendScript-FF9A00?style=flat-square)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
-## Sataku Webpack Template
+### Sataku Webpack Template
 
 An essential update to the Gulp-based template employed to standardize and streamline the rich media creation.
 
@@ -197,7 +197,7 @@ What I found particularly interesting was converting legacy code into a more mod
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
 
-## Sataku Chrome Injector
+### Sataku Chrome Injector
 
 React-based Chrome extension that simplifies assessing rich media by injecting code into the displayed webpage.
 

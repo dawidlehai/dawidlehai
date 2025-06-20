@@ -214,6 +214,10 @@ It was a great opportunity to work with Chrome extensions and React together. I 
 
 ---
 
+Want even more? Check out my 🎓 [course projects](projects/course-projects.md).
+
+---
+
 ## 📫 Let's connect!
 
 - 💼 **LinkedIn**: [linkedin.com/in/dawidlehai](https://linkedin.com/in/dawidlehai)

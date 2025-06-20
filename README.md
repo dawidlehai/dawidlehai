@@ -137,6 +137,8 @@ Single-page application designed from scratch that explores countries and their 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![REST Countries API](https://img.shields.io/badge/REST%20Countries%20API-000000?style=flat-square&logo=restcountries&logoColor=white)
 
+---
+
 ## 🧑🏻‍💻 Featured backend and tool projects
 
 ### OOH!attention Development Environment

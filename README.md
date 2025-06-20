@@ -137,17 +137,78 @@ Single-page application designed from scratch that explores countries and their 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![REST Countries API](https://img.shields.io/badge/REST%20Countries%20API-000000?style=flat-square&logo=restcountries&logoColor=white)
 
-### 🎯 OOH!attention Development Environment
+## 🧑🏻‍💻 Featured backend and tool projects
 
-Vite-powered template for building Out-Of-Home advertisements with built-in testing, documentation, and mobile optimization.
+### OOH!attention Development Environment
 
-### 🖥️ Sataku WebSocket Server
+A Vite-powered JavaScript project template for building Out-Of-Home (OOH) advertisements. It includes a development server, predefined styles, a mocked Android tablet API, UI simulation, robust built-in functions, components, JS Doc integration, error handling, and Vitest testing. Built to streamline OOH ad creation for our developers, the project is well-documented, easy to use, and optimized for mobile performance.
 
-Real-time communication server enabling mobile-desktop interaction for interactive banners and games.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-0768A9?style=flat-square)
 
-### 🤖 Sataku Automation Script
+## Sarigato PDF Print Server
 
-Node.js and Photoshop scripts that automate asset export and generate HTML/SCSS code from compositions.
+This Node.js and Express.js server solves the problem of inconsistent PDF printing of reports from our panel page across different browsers and browser settings. By generating PDFs on the server with Puppeteer in a unified Chrome environment, the documents always look exactly as intended.
+
+It was a great opportunity to work with Puppeteer and learn about its capabilities. The tricky part was configuring headless Chrome to print PDFs correctly without any visual or layout issues.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Sataku WebSocket Server
+
+A simple WebSocket server for real-time communication between mobile and desktop interactive banners and games, enabling features such as using your phone as a controller. It was used, for example, in this [Sony PlayStation expand](https://prev.sataku.com/campaign/806/7).
+
+The most challenging part was developing an API that is easy to use, error-proof, and flexible, while also securing the server against potential overload and attacks.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Sataku Automation Script
+
+Node.js and Photoshop scripts designed to streamline developers' workflows by automating asset export and the generation of HTML and SCSS (Sass) code to accurately reproduce compositions.
+
+As the lead developer, I prioritized sustainable code architecture to ensure long-term efficiency. This was quite challenging, but in the end, I managed to achieve good test coverage and implement a convenient distribution system through `npm link`, along with maintaining a clean changelog and well-structured release formats.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![ExtendScript](https://img.shields.io/badge/ExtendScript-FF9A00?style=flat-square)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+## Sataku Webpack Template
+
+An essential update to the Gulp-based template employed to standardize and streamline the rich media creation.
+
+The revamped Webpack version, aligned with the latest Node.js, features improved configuration and faster build times, offering a modern foundation for managing additional libraries atop Sataku's JavaScript framework.
+
+What I found particularly interesting was converting legacy code into a more modern version. It didn't come without challenges – for example, we needed to use a different approach for importing modules than Webpack's default – but it was a great learning experience.
+
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
+
+## Sataku Chrome Injector
+
+React-based Chrome extension that simplifies assessing rich media by injecting code into the displayed webpage.
+
+It features a user-friendly crosshair for selecting insertion points and leverages Sataku's API for easy management.
+
+It was a great opportunity to work with Chrome extensions and React together. I learned a lot about service workers, which I found very useful in other projects.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 ---
 

@@ -37,5 +37,3 @@ A showcase of my course projects, which were part of my learning journey in web 
 - 📋 [TypeScript Project Manager](https://github.com/dawidlehai/ts-project-manager) - Drag and drop project manager made with TypeScript.
 
 - 📝 [Remix Notes](https://github.com/dawidlehai/remix-notes) - Manage all your notes with ease.
-
--

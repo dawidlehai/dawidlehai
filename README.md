@@ -13,7 +13,7 @@ Started coding at 11, went to tech school, studied Computer Science for a year, 
 
 Now I'm back to doing what I love – creating interactive experiences for brands like **Netflix**, **Sony**, and **Mercedes**, building automation tools that make developers' lives easier, and obsessing over accessibility and performance more than making things look pretty (though people tell me I have a good eye for UI anyway).
 
-I'm the kind of software engineer who gets excited about architecture, optimization, and those tiny details that make code sing. Also into bodybuilding and music when I'm not staring at screens 💪🎵
+I'm the kind of software engineer who gets excited about architecture, optimization, and those tiny details that make code sing. Also into ~~bodybuilding~~ health and music when I'm not staring at screens 💪🎵
 
 ---
 
@@ -53,17 +53,6 @@ I'm the kind of software engineer who gets excited about architecture, optimizat
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🏆 Highlights
-
-- 🎓 **Master's in Psychology** with awards for best thesis, student, and graduate
-- 🥷 **2+ years @ Sarigato** building campaigns for major brands
-- 📈 **Promoted from Junior to Regular Developer** in one year
-- 🌐 **Developed interactive ads** reaching thousands of daily viewers
-- 🛠️ **Built comprehensive framework** powering out-of-home (OOH) campaigns
-- 🤖 **Built Node.js automation tools** to streamline workflows
 
 ---
 
